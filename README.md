@@ -1,6 +1,6 @@
 # IIS-application
 
-##General info
+##General info <br />
 *This project created in order to run a website on IIS web server on Windows Virtual Machine.
 *In order to run the website on the window machine: I installed "hoising bandle Asp.Net Core 5.0" in the machine. 
 
